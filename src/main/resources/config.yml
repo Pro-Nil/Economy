@@ -1,0 +1,32 @@
+Settings:
+  DefaultMoney: 300
+MySQL:
+  Enabled: false
+  AutoReconnect: false
+  Table: Economy
+  Host: 127.0.0.1
+  Database: database
+  Username: Pro_Nil
+  Password: '12345'
+  Port: 3306
+Messages:
+  CurrencyPlural: 'Dollars'
+  CurrencySingular: 'Dollar'
+  CurrencyFormat: '%money% %currency%'
+  Positive: '&cMust be positive!'
+  NotEnough: '&cNot enough funds!'
+  NoPermission: '&cYou don''t have permission to execute this!'
+  SentTo: '&2You''ve sent &f%money% &2To&f %name%'
+  ReceivedFrom: '&2You''ve received&f %money% &2From&f %name%'
+  MoneyToggleOn: '&2You can receive money again!'
+  MoneyToggleOff: '&2You can''t receive money anymore!'
+  MoneyDenied: '&cYou can''t send money to this account!'
+  MoneyYourself: '&cYou can''t send money to yourself!'
+  Money: '&2[&fMoney&2] Balance: &f%money%'
+  MoneyPlayer: '&2[&fMoney&2] The balance of &f%name%&2 is &f%money%'
+  PayAccount: '&cThe account doesn''t exists!'
+  PayNotNumber: '&cThe amount must be a number!'
+  Top: '&2[&fMoney&2] Top Money'
+  TopRank: '  &e%rank%. &2%name%: &f%money%'
+  TopNotFound: '&cPage not found!'
+  TopAllMoney: '&2The server balance is: &f%all_money%'

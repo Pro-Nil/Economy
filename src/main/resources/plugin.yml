@@ -1,0 +1,17 @@
+name: Economy
+version: 1.0
+api-version: 1.13
+main: me.pronil.economy.Economy
+author: Pro_Nil
+softdepend: [Vault]
+load: STARTUP
+commands:
+  money:
+    description: Show money.
+    aliases: [bal]
+  pay:
+    description: Pay money.
+  baltop:
+    description: Show top users.
+  eco:
+    description: Admin money management.
