@@ -1,7 +1,6 @@
 # Economy
 A simple economy plugin
-?url=https%3A%2F%2Fi.imgur.com%2FxheNfkM.png
-money-bag-which-dollar-sign-dollars-banknotes-cash-money-bunch-coins-money-bag-pile-money-packs-dollars_435184-174-transformed-removebg-preview.png
+
 Simple yet super effective Economy plugin.
 
 Images:
