@@ -3,22 +3,6 @@ A simple economy plugin
 
 Simple yet super effective Economy plugin.
 
-Images:
-
-/baltop cmd :
-
-unknown.png
-
-/eco cmd :
-unknown.png
-
-/money toggle cmd : 
-
-unknown.png
-
-/money cmd :
-
-unknown.png
 
 Features:
 
